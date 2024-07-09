@@ -1,3 +1,3 @@
 class PrimeFactor:
-    def getPrimeFactors(self, input):
+    def of(self, n):
         pass
